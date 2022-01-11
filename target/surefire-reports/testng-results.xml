@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="202" started-at="2021-07-22T14:53:46 IST" finished-at="2021-07-22T14:53:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="202" started-at="2021-07-22T14:53:46 IST" finished-at="2021-07-22T14:53:47 IST">
+      <class name="Udemy.RahulShetty.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Udemy.RahulShetty.SeleniumTest@3dd4520b]" name="BrowserAutomation" duration-ms="44" started-at="2021-07-22T14:53:46 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsURL()[pri:0, instance:Udemy.RahulShetty.SeleniumTest@3dd4520b]" name="elementsURL" duration-ms="1" started-at="2021-07-22T14:53:47 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsURL -->
+      </class> <!-- Udemy.RahulShetty.SeleniumTest -->
+      <class name="Udemy.RahulShetty.AppiumTest">
+        <test-method status="PASS" signature="AppiumTestProj()[pri:0, instance:Udemy.RahulShetty.AppiumTest@6e6c3152]" name="AppiumTestProj" duration-ms="1" started-at="2021-07-22T14:53:47 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestProj -->
+        <test-method status="PASS" signature="AppiumTesting()[pri:0, instance:Udemy.RahulShetty.AppiumTest@6e6c3152]" name="AppiumTesting" duration-ms="0" started-at="2021-07-22T14:53:47 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTesting -->
+      </class> <!-- Udemy.RahulShetty.AppiumTest -->
+      <class name="Udemy.RahulShetty.RestApiTest">
+        <test-method status="PASS" signature="ApiTestProj()[pri:0, instance:Udemy.RahulShetty.RestApiTest@6ebc05a6]" name="ApiTestProj" duration-ms="1" started-at="2021-07-22T14:53:47 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiTestProj -->
+        <test-method status="PASS" signature="ApiTesting()[pri:0, instance:Udemy.RahulShetty.RestApiTest@6ebc05a6]" name="ApiTesting" duration-ms="2" started-at="2021-07-22T14:53:47 IST" finished-at="2021-07-22T14:53:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiTesting -->
+      </class> <!-- Udemy.RahulShetty.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
