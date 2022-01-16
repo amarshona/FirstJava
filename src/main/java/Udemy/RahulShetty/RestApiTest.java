@@ -8,6 +8,9 @@ public class RestApiTest {
 	public void ApiTesting() {
 		
 		System.out.println("ApiTesting");
+		System.out.println("ApiTesting2");
+		System.out.println("ApiTesting3");
+		System.out.println("ApiTesting4");
 	}
 
 	@Test
