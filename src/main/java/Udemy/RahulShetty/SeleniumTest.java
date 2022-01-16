@@ -15,4 +15,15 @@ public class SeleniumTest {
 		System.out.println("elementsURL");	
 	}
 	
+	@Test
+	public  void BrowserAutomationProj() {
+	System.out.println("BrowserAutomation Proj");	
+	}
+
+	@Test
+	public void elementsURLP() {
+		
+		System.out.println("elementsURLP");	
+	}
+	
 }
