@@ -21,6 +21,9 @@ public class RestApiTest {
 	@Test
 	public void ApiTestProj1() {
 		System.out.println("ApiTestProj1");	
+		System.out.println("ApiTestProj2");	
+		System.out.println("ApiTestProj13");	
+		System.out.println("ApiTestProj14");	
 		
 	}
 	@Test

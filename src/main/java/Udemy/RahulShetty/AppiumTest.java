@@ -12,12 +12,35 @@ public class AppiumTest {
 	}
 
 	@Test
+	public void AppiumTestProjV() {
+		
+		System.out.println("AppiumTestProjV");
+		
+	}
+
+	@Test
+	public void AppiumTestingFirst() {
+		System.out.println("AppiumTesting");
+		
+	}
+
+	@Test
+	public void AppiumTestProject() {
+		
+		System.out.println("AppiumTestProj");
+		
+	}
+	@Test
+	public void AppiumTestingTest2() {
+		System.out.println("AppiumTesting");
+		
+	}
+
+	@Test
 	public void AppiumTestProj() {
 		
 		System.out.println("AppiumTestProj");
 		
 	}
-
-	
 	
 }
