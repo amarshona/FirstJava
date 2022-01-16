@@ -18,5 +18,15 @@ public class RestApiTest {
 		System.out.println("ApiTestProj");	
 		
 	}
+	@Test
+	public void ApiTestProj1() {
+		System.out.println("ApiTestProj1");	
+		
+	}
+	@Test
+	public void ApiTestProj2() {
+		System.out.println("ApiTestProj2");	
+		
+	}
 
 }
